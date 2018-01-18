@@ -9,6 +9,8 @@
         <link rel="stylesheet" type="text/css" href="Resources/css/style.css">
     </head>
     <body>
-
+<header id="header">
+  
+</header>
     </body>
 </html>

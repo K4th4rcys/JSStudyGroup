@@ -1,6 +1,14 @@
-body{
-    margin:0px;
-    background-color: #555;
-    color: #fafafa;
-    font-family: "Arial";
+body {
+  margin: 0px;
+  background-color: #555;
+  color: #fafafa;
+  font-family: "Arial";
+}
+
+#header {
+  margin: auto;
+  border: 5px solid red;
+  background-color: orange;
+  height: 100px;
+  width: 98%;
 }
